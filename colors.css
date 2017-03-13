@@ -1,0 +1,17 @@
+.about-info h3 {
+    font-family: 'Jockey One', sans-serif;
+    margin: 0;
+    color: #323b43;
+    font-size: 44px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.gallery h3 {
+    font-family: 'Jockey One', sans-serif;
+    margin: 0;
+    color: #323b43;
+    font-size: 42px;
+    text-align: center;
+    font-weight: 400;
+}
