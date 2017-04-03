@@ -305,6 +305,9 @@ margin-right: 150px;
 	min-height: 100vh;
 	width: 100%;
 }
+.about-info {
+	margin-bottom: 10px;
+}
 .about-info h3 {
   font-family: 'Jockey One', sans-serif;
   margin: 0;
@@ -365,6 +368,12 @@ margin-right: 150px;
 	border-radius: 25px;
 	padding: 2em 2em 2em 2em;
 	padding-top: 0;
+}
+.hella-blog{
+	background-color: rgba(255, 255, 255, 0.1);
+	border-radius: 25px;
+	padding: 2em 2em 2em 2em;
+	width: 100%
 }
 /*--/about--*/
 /*--services--*/
